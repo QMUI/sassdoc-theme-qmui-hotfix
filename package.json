@@ -1,0 +1,33 @@
+{
+  "name": "sassdoc-theme-qmui-hotfix",
+  "description": "A theme for QMUI Web hotfix solution.",
+  "version": "0.2.0",
+  "keywords": [
+    "sassdoc-theme"
+  ],
+  "dependencies": {
+    "extend": "^1.0.0",
+    "sassdoc-extras": "^2.0.0",
+    "swig": "^1.4.2",
+    "themeleon": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "devDependencies": {
+    "autoprefixer-core": "^6.0.1",
+    "bluebird": "^3.4.6",
+    "browser-sync": "^2.18.2",
+    "fs-extra": "^1.0.0",
+    "gulp": "^3.9.1",
+    "gulp-cached": "^1.1.1",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-postcss": "^6.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.7",
+    "imagemin-pngcrush": "^5.0.0",
+    "sassdoc": "^2.1.20"
+  }
+}
