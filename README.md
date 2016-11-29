@@ -1,3 +1,3 @@
 # qmui-hotfix
 
-> A theme for QMUI Web hotfix solution.
+> A theme of SassDoc for QMUI Web hotfix solution.
